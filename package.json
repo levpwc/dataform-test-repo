@@ -1,0 +1,6 @@
+{
+  "name": "ll-test-repo",
+  "dependencies": {
+    "@dataform/core": "2.0.1"
+  }
+}
