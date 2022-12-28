@@ -1,0 +1,8 @@
+config {
+  type: "table",
+  name: "added_value"
+}
+
+SELECT
+  *
+FROM ${ref("restricted_view")}
