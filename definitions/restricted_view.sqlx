@@ -1,6 +1,7 @@
 config {
     type: "view",
-    materialized: true
+    materialized: true,
+    name: "restricted_view"
     }
 
 -- Use the ref() function to manage dependencies.
