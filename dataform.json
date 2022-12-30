@@ -3,5 +3,5 @@
   "assertionSchema": "showcaseKaggleDatasetDataformAssertions",
   "warehouse": "bigquery",
   "defaultDatabase": "pg-de-n-app-605412",
-  "defaultLocation": "EU"
+  "defaultLocation": "US"
 }
